@@ -2,4 +2,4 @@
 
 Personal homepage
 
-http://www.wangyh.info/
+https://www.wangyh.info/
