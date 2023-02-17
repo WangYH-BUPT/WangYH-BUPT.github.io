@@ -2,4 +2,4 @@
 
 Personal homepage
 
-https://www.wangyh.info/
+https://wangyh-bupt.github.io/
